@@ -1,0 +1,578 @@
+2024-07-25 11:25:17 [main] INFO  o.e.f.FolderProducterApplication - Starting FolderProducterApplication using Java 22.0.2 on vm-win10-xx-54 with PID 20320 (C:\Users\xxxs20243\IdeaProjects\FolderProducter\target\classes started by xxxs20243 in C:\Users\xxxs20243\IdeaProjects\FolderProducter)
+2024-07-25 11:25:17 [main] INFO  o.e.f.FolderProducterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 11:25:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-07-25 11:25:18 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 11:25:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-25 11:25:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2024-07-25 11:25:19 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-25 11:25:19 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1265 ms
+2024-07-25 11:25:19 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 11:25:19 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-07-25 11:25:19 [main] INFO  o.e.f.FolderProducterApplication - Started FolderProducterApplication in 2.385 seconds (JVM running for 3.187)
+2024-07-25 11:25:23 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 11:25:23 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-25 11:25:23 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-07-25 11:25:23 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT
+2024-07-25 11:25:24 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\QGC07.79《压缩空气泡沫灭火系统检修作业指导书》(1).docx
+2024-07-25 11:25:29 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹
+2024-07-25 11:25:29 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\555.docx
+2024-07-25 11:25:30 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登
+2024-07-25 11:25:30 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\测试文件.docx
+2024-07-25 11:25:31 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\钉钉免登.docx
+2024-07-25 11:32:11 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品
+2024-07-25 11:32:11 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序
+2024-07-25 11:32:11 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563
+2024-07-25 11:32:11 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本
+2024-07-25 11:32:11 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835
+2024-07-25 11:32:12 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835\PCS-9563_500kW_R2.1_变更说明.docx
+2024-07-25 11:32:13 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835\PCS-9563_500kW_R2.02
+2024-07-25 11:32:13 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706
+2024-07-25 11:32:13 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706\PCS-9563_500kW_R2.1_变更说明.docx
+2024-07-25 11:32:14 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706\PCS-9563_130340
+2024-07-25 11:32:14 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.10 (418937)
+2024-07-25 11:32:14 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.10 (418937)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:15 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 (439730)
+2024-07-25 11:32:15 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730
+2024-07-25 11:32:15 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:16 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730\PCS-9563_R3.22
+2024-07-25 11:32:16 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538
+2024-07-25 11:32:16 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:17 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538\PCS-9563_R3
+2024-07-25 11:32:17 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 (431576)
+2024-07-25 11:32:17 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576
+2024-07-25 11:32:17 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:18 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576\PCS-9563_R3.22
+2024-07-25 11:32:18 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930
+2024-07-25 11:32:19 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:19 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930\PCS-9563_R2.13(ECKF131526)
+2024-07-25 11:32:19 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 (453464)
+2024-07-25 11:32:19 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464
+2024-07-25 11:32:20 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:20 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464\PCS-9563_R3.30
+2024-07-25 11:32:20 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.40 (458538)
+2024-07-25 11:32:21 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-150847 3.10 15-11-11 00419270
+2024-07-25 11:32:21 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-150847 3.10 15-11-11 00419270\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:21 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117
+2024-07-25 11:32:22 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:22 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117\PCS-9563_R2.13(ECKF160029)
+2024-07-25 11:32:22 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256
+2024-07-25 11:32:23 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:23 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)
+2024-07-25 11:32:23 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)\新建文件夹
+2024-07-25 11:32:23 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)\新建文件夹\点表
+2024-07-25 11:32:23 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162661 3.22 16-10-11 00436119
+2024-07-25 11:32:24 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162661 3.22 16-10-11 00436119\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:25 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本
+2024-07-25 11:32:25 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.42 (479933)
+2024-07-25 11:32:25 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.42 (479933)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:26 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.43 (485489)
+2024-07-25 11:32:26 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.43 (485489)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:27 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-H2 3.44 (487913)
+2024-07-25 11:32:27 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-H2 3.44 (487913)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:28 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本
+2024-07-25 11:32:28 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）
+2024-07-25 11:32:28 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:29 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）\PCS-9563_R3.10(ECKF160023)
+2024-07-25 11:32:29 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）
+2024-07-25 11:32:29 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）\PCS-9563_500kW__变更说明.docx
+2024-07-25 11:32:30 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）\PCS-9563_R2.12(ECKF162386)
+2024-07-25 11:32:30 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）
+2024-07-25 11:32:30 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:31 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03
+2024-07-25 11:32:31 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03.docx
+2024-07-25 11:32:32 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-160024 3.10 16-05-03 00428490（比亚迪光伏）
+2024-07-25 11:32:32 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-160024 3.10 16-05-03 00428490（比亚迪光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:33 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）
+2024-07-25 11:32:33 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:34 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）\PCS-9563_R3.02(ECKF162292)
+2024-07-25 11:32:34 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）
+2024-07-25 11:32:34 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:35 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）\PCS-9563_R3.20(ECKF162301)
+2024-07-25 11:32:35 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563AF_DCDC_SUBQ00551135_ECKF220921_R1.00
+2024-07-25 11:32:35 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563AF_DCDC_SUBQ00551135_ECKF220921_R1.00\PCS-9563AF-ECKF220921变更说明.docx
+2024-07-25 11:32:36 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_ECKF220370_R1.01
+2024-07-25 11:32:36 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_ECKF220370_R1.01\PCS-9563_ECKF220370_R1.01程序说明 .docx
+2024-07-25 11:32:37 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180399
+2024-07-25 11:32:37 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180399\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:38 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180701
+2024-07-25 11:32:38 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180701\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:32:39 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S
+2024-07-25 11:32:39 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-225KTL_R1.00
+2024-07-25 11:32:39 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-225KTL_R1.00\PCS-9563S-225KTL软件程序_变更说明.docx
+2024-07-25 11:32:40 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 (444105)
+2024-07-25 11:32:40 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105
+2024-07-25 11:32:40 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105\PCS-9563S-40kTL软件程序_变更说明.docx
+2024-07-25 11:32:41 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105\PCS-9563S-40kTL
+2024-07-25 11:32:41 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40KTL R2.00 (434051)
+2024-07-25 11:32:41 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL 2.11 (458797)
+2024-07-25 11:32:41 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 (447859)
+2024-07-25 11:32:41 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859
+2024-07-25 11:32:41 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859\PCS-9563S-50kTL软件程序_变更说明.docx
+2024-07-25 11:32:42 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859\PCS-9563S-50kTL
+2024-07-25 11:32:42 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)
+2024-07-25 11:32:42 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\PCS-9563S-50kTL_BRTEST软件程序_变更说明.docx
+2024-07-25 11:32:43 [http-nio-8080-exec-2] WARN  o.apache.poi.hwpf.model.PAPBinTable - Paragraph [1086; 1087) has no PAPX. Creating new one.
+2024-07-25 11:32:43 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\QGS12.183《PCS-9563S系列光伏并网逆变器例行试验作业指导书》.docx
+2024-07-25 11:32:44 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\PCS-9563S-50kTL_BRTEST
+2024-07-25 11:32:44 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F110KTL_R1.01
+2024-07-25 11:32:44 [http-nio-8080-exec-2] WARN  o.apache.poi.hwpf.model.PAPBinTable - Paragraph [250; 251) has no PAPX. Creating new one.
+2024-07-25 11:32:44 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F110KTL_R1.01\PCS-9563S-F110KTL软件程序_变更说明.docx
+2024-07-25 11:32:45 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F225KTL_R1.01
+2024-07-25 11:32:45 [http-nio-8080-exec-2] WARN  o.apache.poi.hwpf.model.PAPBinTable - Paragraph [250; 251) has no PAPX. Creating new one.
+2024-07-25 11:32:45 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F225KTL_R1.01\PCS-9563S-F225KTL软件程序_变更说明.docx
+2024-07-25 11:32:46 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F40KTLF50KT组串逆变器板卡自动测试程序 2.00 (459104)
+2024-07-25 11:32:46 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)
+2024-07-25 11:32:46 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\PCS-9563S-F50kDC_BRTEST软件程序_变更说明.docx
+2024-07-25 11:32:47 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\光伏DCDC博瑞调试指导书.docx
+2024-07-25 11:32:48 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\PCS-9563S-F50kDC_BRTEST
+2024-07-25 11:32:48 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS_9563S_F110KTL_R1.00
+2024-07-25 11:32:48 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS_9563S_F110KTL_R1.00\PCS-9563S-F110KTL软件程序_变更说明.docx
+2024-07-25 11:32:49 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\03-产品工艺要求（工艺规范）
+2024-07-25 11:32:49 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\04-产品说明书
+2024-07-25 11:38:25 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品
+2024-07-25 11:38:25 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序
+2024-07-25 11:38:25 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563
+2024-07-25 11:38:25 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本
+2024-07-25 11:38:25 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835
+2024-07-25 11:38:26 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835\PCS-9563_500kW_R2.1_变更说明.docx
+2024-07-25 11:38:26 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835\PCS-9563_500kW_R2.02
+2024-07-25 11:38:26 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706
+2024-07-25 11:38:26 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706\PCS-9563_500kW_R2.1_变更说明.docx
+2024-07-25 11:38:27 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706\PCS-9563_130340
+2024-07-25 11:38:27 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.10 (418937)
+2024-07-25 11:38:27 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.10 (418937)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:28 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 (439730)
+2024-07-25 11:38:28 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730
+2024-07-25 11:38:28 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:29 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730\PCS-9563_R3.22
+2024-07-25 11:38:29 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538
+2024-07-25 11:38:29 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:30 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538\PCS-9563_R3
+2024-07-25 11:38:30 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 (431576)
+2024-07-25 11:38:30 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576
+2024-07-25 11:38:30 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:31 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576\PCS-9563_R3.22
+2024-07-25 11:38:31 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930
+2024-07-25 11:38:31 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:32 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930\PCS-9563_R2.13(ECKF131526)
+2024-07-25 11:38:32 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 (453464)
+2024-07-25 11:38:32 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464
+2024-07-25 11:38:32 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:33 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464\PCS-9563_R3.30
+2024-07-25 11:38:33 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.40 (458538)
+2024-07-25 11:38:33 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-150847 3.10 15-11-11 00419270
+2024-07-25 11:38:33 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-150847 3.10 15-11-11 00419270\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:34 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117
+2024-07-25 11:38:34 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:35 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117\PCS-9563_R2.13(ECKF160029)
+2024-07-25 11:38:35 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256
+2024-07-25 11:38:35 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:36 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)
+2024-07-25 11:38:36 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)\新建文件夹
+2024-07-25 11:38:36 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)\新建文件夹\点表
+2024-07-25 11:38:36 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162661 3.22 16-10-11 00436119
+2024-07-25 11:38:36 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162661 3.22 16-10-11 00436119\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:37 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本
+2024-07-25 11:38:37 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.42 (479933)
+2024-07-25 11:38:37 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.42 (479933)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:38 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.43 (485489)
+2024-07-25 11:38:38 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.43 (485489)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:39 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-H2 3.44 (487913)
+2024-07-25 11:38:39 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-H2 3.44 (487913)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:39 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本
+2024-07-25 11:38:39 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）
+2024-07-25 11:38:39 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:40 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）\PCS-9563_R3.10(ECKF160023)
+2024-07-25 11:38:40 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）
+2024-07-25 11:38:40 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）\PCS-9563_500kW__变更说明.docx
+2024-07-25 11:38:41 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）\PCS-9563_R2.12(ECKF162386)
+2024-07-25 11:38:41 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）
+2024-07-25 11:38:41 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:42 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03
+2024-07-25 11:38:42 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03.docx
+2024-07-25 11:38:43 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-160024 3.10 16-05-03 00428490（比亚迪光伏）
+2024-07-25 11:38:43 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-160024 3.10 16-05-03 00428490（比亚迪光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:44 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）
+2024-07-25 11:38:44 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:45 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）\PCS-9563_R3.02(ECKF162292)
+2024-07-25 11:38:45 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）
+2024-07-25 11:38:45 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:46 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）\PCS-9563_R3.20(ECKF162301)
+2024-07-25 11:38:46 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563AF_DCDC_SUBQ00551135_ECKF220921_R1.00
+2024-07-25 11:38:46 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563AF_DCDC_SUBQ00551135_ECKF220921_R1.00\PCS-9563AF-ECKF220921变更说明.docx
+2024-07-25 11:38:47 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_ECKF220370_R1.01
+2024-07-25 11:38:47 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_ECKF220370_R1.01\PCS-9563_ECKF220370_R1.01程序说明 .docx
+2024-07-25 11:38:48 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180399
+2024-07-25 11:38:48 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180399\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:49 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180701
+2024-07-25 11:38:49 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180701\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:38:50 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S
+2024-07-25 11:38:50 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-225KTL_R1.00
+2024-07-25 11:38:50 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-225KTL_R1.00\PCS-9563S-225KTL软件程序_变更说明.docx
+2024-07-25 11:38:51 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 (444105)
+2024-07-25 11:38:51 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105
+2024-07-25 11:38:51 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105\PCS-9563S-40kTL软件程序_变更说明.docx
+2024-07-25 11:38:52 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105\PCS-9563S-40kTL
+2024-07-25 11:38:52 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40KTL R2.00 (434051)
+2024-07-25 11:38:52 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL 2.11 (458797)
+2024-07-25 11:38:52 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 (447859)
+2024-07-25 11:38:52 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859
+2024-07-25 11:38:52 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859\PCS-9563S-50kTL软件程序_变更说明.docx
+2024-07-25 11:38:53 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859\PCS-9563S-50kTL
+2024-07-25 11:38:53 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)
+2024-07-25 11:38:53 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\PCS-9563S-50kTL_BRTEST软件程序_变更说明.docx
+2024-07-25 11:38:54 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\QGS12.183《PCS-9563S系列光伏并网逆变器例行试验作业指导书》.docx
+2024-07-25 11:38:55 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\PCS-9563S-50kTL_BRTEST
+2024-07-25 11:38:55 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F110KTL_R1.01
+2024-07-25 11:38:55 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F110KTL_R1.01\PCS-9563S-F110KTL软件程序_变更说明.docx
+2024-07-25 11:38:55 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F225KTL_R1.01
+2024-07-25 11:38:55 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F225KTL_R1.01\PCS-9563S-F225KTL软件程序_变更说明.docx
+2024-07-25 11:38:56 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F40KTLF50KT组串逆变器板卡自动测试程序 2.00 (459104)
+2024-07-25 11:38:56 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)
+2024-07-25 11:38:57 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\PCS-9563S-F50kDC_BRTEST软件程序_变更说明.docx
+2024-07-25 11:38:58 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\光伏DCDC博瑞调试指导书.docx
+2024-07-25 11:38:59 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\PCS-9563S-F50kDC_BRTEST
+2024-07-25 11:38:59 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS_9563S_F110KTL_R1.00
+2024-07-25 11:38:59 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS_9563S_F110KTL_R1.00\PCS-9563S-F110KTL软件程序_变更说明.docx
+2024-07-25 11:39:00 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\03-产品工艺要求（工艺规范）
+2024-07-25 11:39:00 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\04-产品说明书
+2024-07-25 11:54:59 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品
+2024-07-25 11:54:59 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序
+2024-07-25 11:54:59 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563
+2024-07-25 11:54:59 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本
+2024-07-25 11:54:59 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835
+2024-07-25 11:54:59 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835\PCS-9563_500kW_R2.1_变更说明.docx
+2024-07-25 11:55:00 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW R2.02 13-07-15 00198835\PCS-9563_500kW_R2.02
+2024-07-25 11:55:00 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706
+2024-07-25 11:55:00 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706\PCS-9563_500kW_R2.1_变更说明.docx
+2024-07-25 11:55:01 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563-500kW-130340 R2.11 13-04-03 00197706\PCS-9563_130340
+2024-07-25 11:55:01 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.10 (418937)
+2024-07-25 11:55:01 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.10 (418937)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:02 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 (439730)
+2024-07-25 11:55:02 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730
+2024-07-25 11:55:02 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:03 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.22 17-03-06 00439730\PCS-9563_R3.22
+2024-07-25 11:55:03 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538
+2024-07-25 11:55:03 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:04 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A 3.40 17-12-05 00458538\PCS-9563_R3
+2024-07-25 11:55:04 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 (431576)
+2024-07-25 11:55:04 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576
+2024-07-25 11:55:04 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:05 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A R3.22 16-10-10 00431576\PCS-9563_R3.22
+2024-07-25 11:55:05 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930
+2024-07-25 11:55:05 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:06 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-131526 2.13 16-10-21 00436930\PCS-9563_R2.13(ECKF131526)
+2024-07-25 11:55:06 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 (453464)
+2024-07-25 11:55:06 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464
+2024-07-25 11:55:06 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:07 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.30 17-08-16 00453464\PCS-9563_R3.30
+2024-07-25 11:55:07 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-5A 3.40 (458538)
+2024-07-25 11:55:07 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-150847 3.10 15-11-11 00419270
+2024-07-25 11:55:07 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-150847 3.10 15-11-11 00419270\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:08 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117
+2024-07-25 11:55:08 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:09 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H2-160029 2.13 16-11-08 00438117\PCS-9563_R2.13(ECKF160029)
+2024-07-25 11:55:09 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256
+2024-07-25 11:55:09 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:10 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)
+2024-07-25 11:55:10 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)\新建文件夹
+2024-07-25 11:55:10 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162428 3.21 16-10-24 00437256\PCS-9563_R3.21(ECKF162428)\新建文件夹\点表
+2024-07-25 11:55:10 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162661 3.22 16-10-11 00436119
+2024-07-25 11:55:10 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\历史版本\PCS-9563A-H3-162661 3.22 16-10-11 00436119\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:11 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本
+2024-07-25 11:55:11 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.42 (479933)
+2024-07-25 11:55:11 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.42 (479933)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:12 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.43 (485489)
+2024-07-25 11:55:12 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-5A 3.43 (485489)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:13 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-H2 3.44 (487913)
+2024-07-25 11:55:13 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\标准最新版本\PCS-9563A-H2 3.44 (487913)\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:14 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本
+2024-07-25 11:55:14 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）
+2024-07-25 11:55:14 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:15 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-160023 3.10 16-06-24 00427270（察右中旗）\PCS-9563_R3.10(ECKF160023)
+2024-07-25 11:55:15 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）
+2024-07-25 11:55:15 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）\PCS-9563_500kW__变更说明.docx
+2024-07-25 11:55:16 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-162386 2.12 16-06-18 00431126（云南楚雄光伏）\PCS-9563_R2.12(ECKF162386)
+2024-07-25 11:55:16 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）
+2024-07-25 11:55:16 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:17 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03
+2024-07-25 11:55:17 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-EN-5A-162327 3.20 16-05-30 00430151（乌克兰光伏）\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03\PCS-9563_X_说明书_国内中文_国内标准版_X_R1.03.docx
+2024-07-25 11:55:18 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-160024 3.10 16-05-03 00428490（比亚迪光伏）
+2024-07-25 11:55:18 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-160024 3.10 16-05-03 00428490（比亚迪光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:19 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）
+2024-07-25 11:55:19 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:20 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162292 3.02 16-06-16 00429680（宁夏中卫光伏）\PCS-9563_R3.02(ECKF162292)
+2024-07-25 11:55:20 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）
+2024-07-25 11:55:20 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:21 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563A-H2-162301 3.20 16-06-11 00429935（蒙能巴彦淖尔逆变器）\PCS-9563_R3.20(ECKF162301)
+2024-07-25 11:55:21 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563AF_DCDC_SUBQ00551135_ECKF220921_R1.00
+2024-07-25 11:55:21 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563AF_DCDC_SUBQ00551135_ECKF220921_R1.00\PCS-9563AF-ECKF220921变更说明.docx
+2024-07-25 11:55:22 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_ECKF220370_R1.01
+2024-07-25 11:55:22 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_ECKF220370_R1.01\PCS-9563_ECKF220370_R1.01程序说明 .docx
+2024-07-25 11:55:23 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180399
+2024-07-25 11:55:23 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180399\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:24 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180701
+2024-07-25 11:55:24 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\1-PCS-9563\特殊程序版本\PCS-9563_R3.41-ECKF180701\PCS-9563_500kW_变更说明.docx
+2024-07-25 11:55:25 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S
+2024-07-25 11:55:25 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-225KTL_R1.00
+2024-07-25 11:55:25 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-225KTL_R1.00\PCS-9563S-225KTL软件程序_变更说明.docx
+2024-07-25 11:55:26 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 (444105)
+2024-07-25 11:55:26 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105
+2024-07-25 11:55:26 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105\PCS-9563S-40kTL软件程序_变更说明.docx
+2024-07-25 11:55:27 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40kTL 2.05 17-05-23 00444105\PCS-9563S-40kTL
+2024-07-25 11:55:27 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-40KTL R2.00 (434051)
+2024-07-25 11:55:27 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL 2.11 (458797)
+2024-07-25 11:55:27 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 (447859)
+2024-07-25 11:55:27 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859
+2024-07-25 11:55:27 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859\PCS-9563S-50kTL软件程序_变更说明.docx
+2024-07-25 11:55:28 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50KTL R2.00 17-05-09 00447859\PCS-9563S-50kTL
+2024-07-25 11:55:28 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)
+2024-07-25 11:55:28 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\PCS-9563S-50kTL_BRTEST软件程序_变更说明.docx
+2024-07-25 11:55:29 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\QGS12.183《PCS-9563S系列光伏并网逆变器例行试验作业指导书》.docx
+2024-07-25 11:55:30 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-50kTL_BRTEST 2.00 (473143)\PCS-9563S-50kTL_BRTEST
+2024-07-25 11:55:30 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F110KTL_R1.01
+2024-07-25 11:55:30 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F110KTL_R1.01\PCS-9563S-F110KTL软件程序_变更说明.docx
+2024-07-25 11:55:31 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F225KTL_R1.01
+2024-07-25 11:55:31 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F225KTL_R1.01\PCS-9563S-F225KTL软件程序_变更说明.docx
+2024-07-25 11:55:32 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F40KTLF50KT组串逆变器板卡自动测试程序 2.00 (459104)
+2024-07-25 11:55:32 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)
+2024-07-25 11:55:32 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\PCS-9563S-F50kDC_BRTEST软件程序_变更说明.docx
+2024-07-25 11:55:33 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\光伏DCDC博瑞调试指导书.docx
+2024-07-25 11:55:35 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS-9563S-F50kDC_BRTEST 2.00 (472738)\PCS-9563S-F50kDC_BRTEST
+2024-07-25 11:55:35 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS_9563S_F110KTL_R1.00
+2024-07-25 11:55:35 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\0202-光伏产品\01-程序\2-PCS-9563S\PCS_9563S_F110KTL_R1.00\PCS-9563S-F110KTL软件程序_变更说明.docx
+2024-07-25 11:55:36 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\03-产品工艺要求（工艺规范）
+2024-07-25 11:55:36 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\0202-光伏产品\04-产品说明书
+2024-07-25 15:17:41 [main] INFO  o.e.f.FolderProducterApplication - Starting FolderProducterApplication using Java 22.0.2 on vm-win10-xx-54 with PID 2644 (C:\Users\xxxs20243\IdeaProjects\FolderProducter\target\classes started by xxxs20243 in C:\Users\xxxs20243\IdeaProjects\FolderProducter)
+2024-07-25 15:17:41 [main] INFO  o.e.f.FolderProducterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 15:17:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-07-25 15:17:43 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 15:17:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-25 15:17:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2024-07-25 15:17:43 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-25 15:17:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1533 ms
+2024-07-25 15:17:43 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 15:17:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-07-25 15:17:43 [main] INFO  o.e.f.FolderProducterApplication - Started FolderProducterApplication in 2.775 seconds (JVM running for 3.764)
+2024-07-25 15:19:16 [http-nio-8080-exec-5] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 15:19:16 [http-nio-8080-exec-5] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-07-25 15:19:16 [http-nio-8080-exec-5] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-07-25 15:19:16 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT
+2024-07-25 15:19:19 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\PCS-9563_500kW_变更说明.docx
+2024-07-25 15:19:20 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\QGC07.79《压缩空气泡沫灭火系统检修作业指导书》(1).docx
+2024-07-25 15:19:26 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹
+2024-07-25 15:19:26 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\555.docx
+2024-07-25 15:19:27 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登
+2024-07-25 15:19:27 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\测试文件.docx
+2024-07-25 15:19:28 [http-nio-8080-exec-5] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\钉钉免登.docx
+2024-07-25 15:26:16 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT
+2024-07-25 15:26:16 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\PCS-9563_500kW_变更说明.docx
+2024-07-25 15:26:18 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\QGC07.79《压缩空气泡沫灭火系统检修作业指导书》(1).docx
+2024-07-25 15:26:23 [http-nio-8080-exec-4] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\~$S-9563_500kW_变更说明.docx
+2024-07-25 15:26:24 [http-nio-8080-exec-4] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 Internal Server Error: "{"code":500,"statusText":"","message":"Can not read doc file, please convert to PDF","data":null}"] with root cause
+org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 Internal Server Error: "{"code":500,"statusText":"","message":"Can not read doc file, please convert to PDF","data":null}"
+	at org.springframework.web.client.HttpServerErrorException.create(HttpServerErrorException.java:100)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:170)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:122)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.postForEntity(RestTemplate.java:468)
+	at org.example.folderproducter.service.FastGptUploadService.uploadFile(FastGptUploadService.java:113)
+	at org.example.folderproducter.controller.UploadController.uploadFolderRecursive(UploadController.java:82)
+	at org.example.folderproducter.controller.UploadController.uploadFolder(UploadController.java:37)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+2024-07-25 15:28:24 [http-nio-8080-exec-6] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT
+2024-07-25 15:28:24 [http-nio-8080-exec-6] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\PCS-9563_500kW_变更说明.docx
+2024-07-25 15:28:25 [http-nio-8080-exec-6] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\QGC07.79《压缩空气泡沫灭火系统检修作业指导书》(1).docx
+2024-07-25 15:28:31 [http-nio-8080-exec-6] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\~$S-9563_500kW_变更说明.docx
+2024-07-25 15:28:32 [http-nio-8080-exec-6] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 Internal Server Error: "{"code":500,"statusText":"","message":"Can not read doc file, please convert to PDF","data":null}"] with root cause
+org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 Internal Server Error: "{"code":500,"statusText":"","message":"Can not read doc file, please convert to PDF","data":null}"
+	at org.springframework.web.client.HttpServerErrorException.create(HttpServerErrorException.java:100)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:170)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:122)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.postForEntity(RestTemplate.java:468)
+	at org.example.folderproducter.service.FastGptUploadService.uploadFile(FastGptUploadService.java:113)
+	at org.example.folderproducter.controller.UploadController.uploadFolderRecursive(UploadController.java:82)
+	at org.example.folderproducter.controller.UploadController.uploadFolder(UploadController.java:37)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+2024-07-25 15:30:45 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT
+2024-07-25 15:30:45 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Uploading converted file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\PCS-9563_500kW_变更说明.docx
+2024-07-25 15:30:46 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\QGC07.79《压缩空气泡沫灭火系统检修作业指导书》(1).docx
+2024-07-25 15:30:52 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹
+2024-07-25 15:30:52 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\555.docx
+2024-07-25 15:30:53 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登
+2024-07-25 15:30:53 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\测试文件.docx
+2024-07-25 15:30:54 [http-nio-8080-exec-8] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\钉钉免登.docx
+2024-07-25 15:32:49 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT
+2024-07-25 15:32:49 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\PCS-9563_500kW_变更说明.docx
+2024-07-25 15:32:50 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\QGC07.79《压缩空气泡沫灭火系统检修作业指导书》(1).docx
+2024-07-25 15:32:56 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹
+2024-07-25 15:32:56 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\555.docx
+2024-07-25 15:32:57 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登
+2024-07-25 15:32:57 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\测试文件.docx
+2024-07-25 15:32:58 [http-nio-8080-exec-1] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\测试文件夹\钉钉免登\钉钉免登.docx
+2024-07-25 15:53:31 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Creating folder: C:\Users\xxxs20243\Desktop\LocalFatsGPT
+2024-07-25 15:53:31 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\PCS-9563_500kW_变更说明.docx
+2024-07-25 15:53:32 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\QGC07.79《压缩空气泡沫灭火系统检修作业指导书》(1).docx
+2024-07-25 15:53:38 [http-nio-8080-exec-2] INFO  o.e.f.controller.UploadController - Uploading file: C:\Users\xxxs20243\Desktop\LocalFatsGPT\~$S-9563_500kW_变更说明.docx
+2024-07-25 15:53:39 [http-nio-8080-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 Internal Server Error: "{"code":500,"statusText":"","message":"Can not read doc file, please convert to PDF","data":null}"] with root cause
+org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 Internal Server Error: "{"code":500,"statusText":"","message":"Can not read doc file, please convert to PDF","data":null}"
+	at org.springframework.web.client.HttpServerErrorException.create(HttpServerErrorException.java:100)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:170)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:122)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.postForEntity(RestTemplate.java:468)
+	at org.example.folderproducter.service.FastGptUploadService.uploadFile(FastGptUploadService.java:113)
+	at org.example.folderproducter.controller.UploadController.uploadFolderRecursive(UploadController.java:82)
+	at org.example.folderproducter.controller.UploadController.uploadFolder(UploadController.java:37)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
